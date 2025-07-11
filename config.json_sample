@@ -1,0 +1,11 @@
+{
+  "paths": ["Z:\\example\\path"],
+  "extensions": [".avi", ".mp4", ".mkv"],
+  "OutputCsv": "video_inventory.csv",
+  "ErrorLog": "video_inventory_errors.txt",
+  "DebugLog": "video_inventory_debug.txt",
+  "DatabasePath": "video_inventory.sqlite",
+  "FfprobePath": "ffprobe",
+  "Sqlite3Path": "sqlite3.exe",
+  "EnableDebugLog": false
+}

@@ -1,0 +1,51 @@
+# Ignore user-specific config file
+config.json
+
+# Ignore output files
+video_inventory.csv
+video_inventory.sqlite
+video_inventory_errors_*.txt
+video_inventory_debug_*.txt
+video_inventory_summary_*.log
+
+# Ignore temporary and intermediate files
+temp_import.sql
+temp_import.csv
+
+# System files
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+*.swp
+*.swo
+*~
+
+.*.sw?
+
+# VSCode settings (optional)
+.vscode/
+
+# Logs
+*.log
+*.tmp
+
+# PowerShell history (if any)
+*.pshistory
+
+# JetBrains IDEs (PyCharm, etc.)
+.idea/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Logs and temporary files
+*.log
+*.tmp

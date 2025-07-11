@@ -32,7 +32,7 @@ This PowerShell script recursively scans folders for video files, extracts their
 
 2. **Configure `config.json`**:
 
-   * Rename `config.json_sample` to `config.json`.
+   * Rename `sample_config.json` to `config.json`.
    * Edit the paths and settings according to your environment.
 
    ```json
